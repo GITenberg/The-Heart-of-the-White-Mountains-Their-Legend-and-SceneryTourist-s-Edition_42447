@@ -1,0 +1,31 @@
+_repo: The-Heart-of-the-White-Mountains-Their-Legend-and-SceneryTourist-s-Edition_42447
+_version: 0.1.0
+alternative_title: Drake's White Mountains
+covers:
+- cover_type: archival
+  image_path: 42447-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_issued: '2013-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42447'
+  lccn: 01008814
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'White Mountains (N.H. and Me.) -- Description and travel'
+- !lcc 'F001'
+title: 'The Heart of the White Mountains, Their Legend and Scenery
+
+  Tourist''s Edition'
+url: http://www.gutenberg.org/ebooks/42447
